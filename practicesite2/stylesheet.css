@@ -1,0 +1,30 @@
+p {
+	font-family: Montserrat, sans-serif;
+	font-size: 15px;
+}
+
+body > p:first-of-type {
+	color: red;
+}
+
+.highlight {
+	background-color: powderblue;
+	font-weight: bold;
+}
+
+#profile {
+	width: 300px;
+}
+
+#world {
+	width: 500px;
+}
+
+.logo {
+	width: 200px;
+}
+
+aside {
+	border-style: groove;
+	margin-left: 80px;
+}
